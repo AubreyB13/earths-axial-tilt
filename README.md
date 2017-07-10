@@ -2,14 +2,14 @@ Measuring Earth's Axial Title <br> Aubrey Browne <br> DSCI6005 <br> September 20
 ----
 The goal of this project was to calculate Earth’s axial tilt with a combination Venus’ position data and linear algebra. The axial tilt is the angle between the rotational axis of the planet and the orbital axis.
 
-![](axial_tilt.jpg)
+![](img/axial_tilt.jpg)
 
 This is a very interesting problem because the tilt of the Earth allows for intelligent life. Without the tilt we would expect there to be extreme and harsh climates which could possibly be inhabitable. Instead, there is  'mild' changes  (the four seasons) throughout the year.
 
 Using the positions of Venus throughout a year timespan and Kepler's laws of planetary motion, I calculated Earth's axial tilt. The concepts used were the law of cosines, Kepler’s third law of planetary motion, and vector geometry methods.
 
-![](Law_of_Cosines1.jpg)
-![](kepler-third-law.jpg)
+![](img/Law_of_Cosines1.jpg)
+![](img/kepler-third-law.jpg)
 
 Through the observation of the planets in our solar system astronomers have continued to calculated Earth's axial tilt with higher degrees of accuracy. I used the HORIZONS Web-Interface from JPL and NASA to get a year's worth of data on Venus. After graphing Venus' position in our sky, I found that its' position moved sinusoidally and from this I was able to infer the angle of Earth's axial tilt is 23.77. However, the widely accepted tilt is 25.44 degrees.
 
